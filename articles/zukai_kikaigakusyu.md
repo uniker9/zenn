@@ -6,8 +6,6 @@ topics: ["machine learning"]
 published: true
 ---
 
-# 学習メモ：機械学習＆ディープラーニングのしくみと技術がしっかりわかる教科書
-
 ## Chapter 3. 機械学習のプロセスとコア技術
 
 ### 20. 能動学習
