@@ -3,7 +3,7 @@ title: "Hello AtCoder and online-judge-tools/oj"
 emoji: "🏅"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: []
-published: false
+published: true
 ---
 
 AtCoder を始めてみる。
