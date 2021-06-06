@@ -2,7 +2,7 @@
 title: "python で再帰を使う場合には再帰上限数を増やしておく"
 emoji: "⤴️"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: [AtCoder]
+topics: ["AtCoder", "Python3"]
 published: true
 ---
 
